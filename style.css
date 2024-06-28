@@ -496,7 +496,7 @@ header img {
     @media (max-width: 728px){
         flex-direction: column;
         height: 130vw;
-        margin-top: -12vw;
+        margin-top: -8vw;
     }
 }
 
